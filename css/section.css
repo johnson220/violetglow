@@ -1,0 +1,17 @@
+
+table{
+    border: 1px solid red;
+    font-size: 8pt;
+    border-collapse: collapse;
+    
+}
+th, tr, td{
+    border: 1px solid white;
+    padding: 5px;
+    background-color: rgb(206, 221, 204);
+}
+th{background-color: darkseagreen;
+}
+.chp{
+    color: rgb(206, 221, 204);
+}
